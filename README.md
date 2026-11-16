@@ -1,6 +1,6 @@
 ## Howdy!
 
-My name is Addy, I am currently working at a construction procurement startup called Kaya AI as an Applied AI Engineer/Forward Deployed Engineer. I was Kaya's first Forward Deployed hire for their Supply Chain Management tool.
+My name is Addy, im doing cool stuff at Revin AI as an AI FDE.
 
 Some other fun facts about me/cool things I've done:
 
